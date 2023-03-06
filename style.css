@@ -1,0 +1,13 @@
+.debug{
+    border: 1px solid red;
+}
+header{
+    background-color: #FFF159;
+}
+.botonnav{
+    margin: 0;
+    background-color: white;
+}
+.formnav{
+    margin: 0;
+}
