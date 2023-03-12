@@ -1,5 +1,8 @@
 .debug{
-    border: 1px solid red;
+    border: 2px solid red;
+}
+.debug2{
+    border: 1px solid green;
 }
 header{
     background-color: #FFF159;
