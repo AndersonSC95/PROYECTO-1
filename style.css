@@ -1,13 +1,89 @@
-.debug{
+.debug {
     border: 2px solid red;
 }
-.debug2{
+
+.debug2 {
     border: 1px solid green;
 }
-header{
-    background-color: #FFF159;
+
+body {
+    height: 4216px;
+    width: 1512px;
+    left: -756px;
+    top: 99px;
+
 }
-.botonnav{
-    margin: 0;
+
+header {
+    background-color: #FFF159;
+    height: 100px;
+    width: 1512px;
+    
+}
+
+.headerdiv {
+    margin: auto;
+    height: 92px;
+    width: 1200px;
+    left: 156px;
+    margin: 0px;
+}
+
+.divbuscador {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 8px;
+}
+
+.barranav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav1 {
+    height: 36px;
+    width: 785px;
+    left: 10px;
+    top: 56px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav2 {
+    margin-left: 100px;
+}
+
+.searchcontainer {
+    margin-left: 52px;
+}
+
+main {
+    height: 3586px;
+    width: 1512px;
+    left: 0px;
+    top: 100.5px;
+
+}
+
+footer {
+    height: 156px;
+    width: 1512px;
+    left: 0px;
+    top: 4036.5px;
+    border-radius: 0px;
+
+}
+
+.botonnav {
+    height: 39px;
+    width: 598px;
+    left: 1px;
+    top: 8px;
+    border-radius: 2px;
     background-color: white;
 }
