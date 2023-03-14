@@ -7,11 +7,8 @@
 }
 
 body {
-    height: 4216px;
-    width: 1512px;
-    left: -756px;
-    top: 99px;
     margin: 0;
+    padding: 0;
 }
 
 header {
@@ -211,18 +208,115 @@ main {
     border-radius: 4px;
     margin-top: 21px
 }
+.sec3{
+    display: flex;
+    flex-direction: row;
+}
+.sec4{
+    display: flex;
+    flex-direction: row;
+}
+.sec4{
+    display: flex;
+    flex-direction: row;
+}
+.sec5{
+    display: flex;
+    flex-direction: row;
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+}
+
+.fcont7 {
+    display: flex;
+    flex-direction: row;
+}
+
+.intsec7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.imgse7{
+    border-width: 0px, 1px, 1px, 0px;
+    border-style: solid;
+    border-color: #EAE6E6;
+}
+.segcont7 {
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    margin-left: 16px;
+}
 
 .tsec7 {
-    font-family: 'Roboto';
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: left;
+
+}
+
+.sosec7 {
+    font-family: Roboto;
     font-size: 26px;
     color: #666666;
     font-weight: 600;
 }
-.rowsec7{
+
+.rowse7 {
     width: 344.67px;
+    margin-left: 156px;
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-around;
+}
+
+.contse7 {
+    margin-left: 156px;
+    height: 384px;
+    width: 383px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sec7tex1 {
+    font-family: Roboto;
+    color: #4B4B4B;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 4px;
+    text-align: left;
+
+}
+
+.sec7tex2 {
+    font-family: Roboto;
+    color: #4B4B4B;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 33px;
+    text-align: left;
+
+
+}
+
+.divcon7 {
+    font-family: Roboto;
+    height: 99px;
+    width: 358px;
+    padding-left: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
 }
 
 .sec8 {
@@ -325,9 +419,7 @@ main {
 
 footer {
     height: 156px;
-    width: 1512px;
     margin-top: 53px;
-    margin-bottom: 23px;
     padding-top: 17px;
 
     font-family: 'Roboto';
@@ -340,13 +432,9 @@ footer {
 
 .marfoot {
 
-    width: 1180px;
-
     margin-left: 166px;
     display: flex;
     flex-direction: column;
-
-
 }
 
 .divfoot {
