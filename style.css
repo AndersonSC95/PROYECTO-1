@@ -19,7 +19,6 @@ header {
     background-color: #FFF159;
     height: 100px;
     width: 1512px;
-    padding-left: 166px;
 
 }
 
@@ -28,7 +27,7 @@ header {
     height: 92px;
     width: 1200px;
     left: 156px;
-    margin: 0px;
+    margin-left: 166px;
 }
 
 .divbuscador {
